@@ -4,7 +4,7 @@ Add dependencies to your pom.xml file
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.banking</groupId>
-    <artifactId>banking-automation-tests</artifactId>
+    <artifactId>/Task-2--Web-UI-Automation</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
